@@ -1,0 +1,11 @@
+build
+*.pyc
+*~
+src/vixc_wrap.c
+vix/_vixc.so
+vix/vixc.py
+
+dependency_links.txt
+PKG-INFO
+SOURCES.txt
+top_level.txt
